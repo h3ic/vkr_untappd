@@ -1,0 +1,273 @@
+style,rating_count,beer_count,checkins_per_style
+Sour - Fruited,576420,1545,373.0
+IPA - American,538274,2186,246.0
+IPA - New England / Hazy,535303,1277,419.0
+IPA - Imperial / Double New England / Hazy,444464,569,781.0
+Lager - Pale,406151,4672,87.0
+Sour - Other Gose,401146,967,415.0
+Sour - Smoothie / Pastry,345648,632,547.0
+IPA - Imperial / Double,334063,1039,322.0
+Sour - Fruited Gose,278804,694,402.0
+Pale Ale - American,251634,1530,164.0
+Stout - Russian Imperial,227918,932,245.0
+Stout - Milk / Sweet,186340,688,271.0
+IPA - Milkshake,168373,456,369.0
+Fruit Beer,164602,1171,141.0
+Sour - Fruited Berliner Weisse,140474,412,341.0
+Mead - Melomel,130537,761,172.0
+Stout - Imperial / Double,119784,551,217.0
+Wheat Beer - Hefeweizen,118029,1230,96.0
+Stout - Imperial / Double Milk,112050,221,507.0
+Stout - Imperial / Double Pastry,109899,194,566.0
+Sour - Other,106332,594,179.0
+IPA - Sour,98528,227,434.0
+IPA - Triple New England / Hazy,88393,84,1052.0
+Porter - Other,80072,525,153.0
+Pale Ale - New England / Hazy,79374,173,459.0
+Stout - Other,79207,651,122.0
+IPA - Session,77340,320,242.0
+Porter - Baltic,76986,239,322.0
+Cider - Other Fruit,72760,769,95.0
+Wheat Beer - Witbier / Blanche,69789,807,86.0
+IPA - Other,66634,592,113.0
+Pilsner - Other,65264,505,129.0
+Mead - Other,62744,708,89.0
+Pale Ale - Milkshake,61923,76,815.0
+Lager - IPL (India Pale Lager),60864,256,238.0
+Stout - Oatmeal,58728,427,138.0
+Farmhouse Ale - Saison,56088,675,83.0
+Lager - Dortmunder / Export,54939,44,1249.0
+Lager - Dark,53437,894,60.0
+Cider - Traditional / Apfelwein,53337,576,93.0
+Porter - Imperial / Double,52742,145,364.0
+IPA - Triple,52461,111,473.0
+Lager - Helles,52425,673,78.0
+Lager - Strong,47571,235,202.0
+Cider - Dry,47420,534,89.0
+Pilsner - Czech / Bohemian,46397,346,134.0
+Barleywine - Other,40289,204,197.0
+Cider - Herbed / Spiced / Hopped,38346,217,177.0
+Pumpkin / Yam Beer,34385,228,151.0
+Kvass,34281,895,38.0
+IPA - Imperial / Double Milkshake,34113,51,669.0
+Chilli / Chile Beer,34032,49,695.0
+Barleywine - English,33839,204,166.0
+Porter - Imperial / Double Baltic,33610,51,659.0
+Wild Ale - Other,31688,171,185.0
+Wild Ale - American,29889,165,181.0
+Sour - Traditional Gose,29334,205,143.0
+IPA - Black / Cascadian Dark Ale,28508,176,162.0
+Red Ale - American Amber / Red,28412,260,109.0
+Wheat Beer - American Pale Wheat,28374,144,197.0
+Sour - Flanders Red Ale,27768,76,365.0
+Lager - Vienna,27527,401,69.0
+Pilsner - German,27298,179,153.0
+Mead - Session / Short,27239,22,1238.0
+Lager - Munich Dunkel,25947,299,87.0
+Shandy / Radler,25771,137,188.0
+Stout - Pastry,25455,92,277.0
+Barleywine - American,24540,137,179.0
+Kellerbier / Zwickelbier,24323,189,129.0
+Non-Alcoholic Beer - Lager,24078,181,133.0
+Spiced / Herbed Beer,23318,274,85.0
+Belgian Quadrupel,21809,148,147.0
+Stout - Imperial / Double Oatmeal,21762,60,363.0
+Stout - Coffee,21441,119,180.0
+Hard Seltzer,21320,138,154.0
+Belgian Tripel,20653,222,93.0
+IPA - White / Wheat,19824,141,141.0
+IPA - English,19602,166,118.0
+Wheat Beer - Other,19598,306,64.0
+IPA - Imperial / Double Black,19471,45,433.0
+Belgian Strong Dark Ale,19379,148,131.0
+Mead - Metheglin,19012,118,161.0
+Belgian Blonde,18438,193,96.0
+Mead - Braggot,18207,143,127.0
+IPA - Brut,17679,90,196.0
+Sour - Flanders Oud Bruin,16731,38,440.0
+Märzen,16577,163,102.0
+Pale Ale - Other,16409,320,51.0
+Brown Ale - English,16116,143,113.0
+Winter Ale,15669,170,92.0
+Brown Ale - Other,15546,173,90.0
+Bitter - Session / Ordinary,15425,128,121.0
+Porter - American,14943,86,174.0
+Kölsch,14729,146,101.0
+Mead - Traditional,14595,172,85.0
+Pale Ale - English,14418,160,90.0
+Pilsner - Czech,13545,86,158.0
+Smoked Beer,13458,156,86.0
+Cider - Sweet,13311,222,60.0
+Lager - Amber / Red,13265,536,25.0
+Belgian Dubbel,12746,199,64.0
+Stout - Irish Dry,12743,152,84.0
+Wheat Beer - Kristallweizen,12615,33,382.0
+IPA - Red,12268,98,125.0
+IPA - Quadruple,12198,6,2033.0
+Bock - Doppelbock,11753,108,109.0
+Cider - Perry / Poiré,11132,101,110.0
+Rye Beer,11024,129,85.0
+Winter Warmer,10802,61,177.0
+Golden Ale,10783,28,385.0
+Lager - Amber,10762,49,220.0
+Non-Alcoholic Beer - IPA,10474,28,374.0
+Grape Ale - Other,10244,53,193.0
+IPA - Rye,9788,47,208.0
+Porter - English,9758,159,61.0
+Mead - Cyser,9678,75,129.0
+Red Ale - Irish,9520,156,61.0
+Sour - Berliner Weisse,9439,198,48.0
+Stout - American,9171,114,80.0
+Freeze-Distilled Beer,9159,47,195.0
+Non-Alcoholic Beer - Shandy / Radler,8912,16,557.0
+Bock - Weizenbock,8724,110,79.0
+Lager - Mexican,8691,16,543.0
+Stout - Imperial / Double Coffee,8396,30,280.0
+Wheat Beer - Wheat Wine,8392,54,155.0
+IPA - New Zealand,8263,15,551.0
+Red Ale - Imperial / Double,8222,14,587.0
+Lager - American,8021,105,76.0
+Rauchbier,7653,98,78.0
+Bitter - Extra Special / Strong (ESB),7641,94,81.0
+Scotch Ale / Wee Heavy,7411,82,90.0
+Brown Ale - American,7233,90,80.0
+Non-Alcoholic Beer - Wheat Beer,7187,24,299.0
+IPA - Farmhouse,7163,26,276.0
+Non-Alcoholic Beer - Pale Ale,6880,29,237.0
+Bock - Single / Traditional,6636,95,70.0
+Hard Kombucha / Jun,6506,250,26.0
+Non-Alcoholic Beer - Sour,6370,24,265.0
+Cider - Perry,6318,18,351.0
+Pale Ale - Australian,6176,27,229.0
+Mead - Bochet,6147,18,342.0
+Cider - Graff,6130,28,219.0
+Red Ale - Other,5970,172,35.0
+Farmhouse Ale - Other,5947,45,132.0
+IPA - Belgian,5910,74,80.0
+Golden Ale - Other,5680,91,62.0
+Belgian Strong Golden Ale,5644,82,69.0
+Brown Ale - Imperial / Double,5555,43,129.0
+Dark Ale,5300,151,35.0
+Cider - Ice / Applewine,5228,76,69.0
+Farmhouse Ale - Sahti,5045,34,148.0
+Brown Ale - Belgian,4971,68,73.0
+Lager - American Amber / Red,4805,59,81.0
+Schwarzbier,4744,117,41.0
+Brett Beer,4727,29,163.0
+Blonde Ale,4551,189,24.0
+Mead - Pyment,4538,33,138.0
+Strong Ale - American,4509,40,113.0
+Stout - White / Golden,4431,20,222.0
+Pale Ale - New Zealand,4425,37,120.0
+Strong Ale - Other,4418,68,65.0
+Cider - Rosé,4380,34,129.0
+Pilsner - Imperial / Double,4347,33,132.0
+Stout - English,4324,53,82.0
+Hard Ginger Beer,4133,139,30.0
+Historical Beer - Burton Ale,3933,18,218.0
+Lager - American Light,3872,98,40.0
+Pale Ale - Belgian,3859,92,42.0
+Wheat Beer - Hopfenweisse,3838,16,240.0
+Lager - Japanese Rice,3829,43,89.0
+Table Beer,3286,27,122.0
+IPA - Cold,3270,14,234.0
+Other,3256,104,31.0
+Historical Beer - Gruit / Ancient Herbed Ale,3254,56,58.0
+IPA - Fruited,3234,6,539.0
+Roggenbier,3191,45,71.0
+Old Ale,3066,39,79.0
+Wheat Beer - Dunkelweizen,3059,157,19.0
+Lambic - Traditional,2904,33,88.0
+IPA - Brett,2828,12,236.0
+Altbier,2825,66,43.0
+Historical Beer - Lichtenhainer,2811,10,281.0
+Non-Alcoholic Cider / Perry,2799,23,122.0
+Flavored Malt Beverage,2742,29,95.0
+Non-Alcoholic Beer - Other,2687,124,22.0
+Stout - Foreign / Export,2579,53,49.0
+Bock - Weizendoppelbock,2390,16,149.0
+Bock - Eisbock,2337,25,93.0
+California Common,2316,29,80.0
+Porter - Imperial / Double Coffee,2265,5,453.0
+Wheat Beer - Hefeweizen Light / Leicht,2171,98,22.0
+Bock - Hell / Maibock / Lentebock,2073,32,65.0
+Porter - Coffee,2047,30,68.0
+Historical Beer - Dampfbier,2008,10,201.0
+Farmhouse Ale - Grisette,1966,26,76.0
+Grodziskie / Grätzer,1813,16,113.0
+Grape Ale - Italian,1799,26,69.0
+Mild - Other,1781,75,24.0
+Festbier,1738,45,39.0
+Historical Beer - Adambier,1730,9,192.0
+Bitter - Best,1652,9,184.0
+Strong Ale - English,1589,33,48.0
+Honey Beer,1521,36,42.0
+Cream Ale,1513,41,37.0
+Australian Sparkling Ale,1405,10,140.0
+Mead - Acerglyn / Maple Wine,1391,5,278.0
+Non-Alcoholic Beer - Porter / Stout,1387,9,154.0
+Scottish Ale,1386,45,31.0
+Malt Liquor,1127,7,161.0
+Historical Beer - Other,1121,14,80.0
+Farmhouse Ale - Bière de Garde,1119,12,93.0
+Rye Wine,1106,9,123.0
+Koji / Ginjo Beer,1088,5,218.0
+Scottish Export Ale,993,17,58.0
+Farmhouse Ale - Bière de Coupage,988,2,494.0
+Historical Beer - Kentucky Common,981,5,196.0
+Stout - Oyster,951,4,238.0
+Specialty Grain,825,25,33.0
+Pale Ale - XPA (Extra Pale),766,5,153.0
+Lambic - Fruit,717,14,51.0
+Stout - Imperial / Double White / Golden,649,5,130.0
+Happoshu,640,3,213.0
+Gluten-Free,607,9,67.0
+Black & Tan,605,5,121.0
+Lager - Other,577,9,64.0
+Mild - Light,538,5,108.0
+Lambic - Other,527,6,88.0
+Traditional Ale,515,17,30.0
+Bière de Champagne / Bière Brut,490,13,38.0
+Pilsner - Italian,462,9,51.0
+Lager - Red,360,27,13.0
+Lager - Winter,360,15,24.0
+Pilsner - New Zealand,330,4,82.0
+Non-Alcoholic Mead,302,19,16.0
+Lambic - Kriek,275,18,15.0
+Lager - Leichtbier,254,2,127.0
+Lambic - Framboise,220,2,110.0
+Belgian Enkel / Patersbier,174,5,35.0
+Historical Beer - Berliner Braunbier,127,1,127.0
+Lambic - Faro,106,1,106.0
+Mild - Dark,94,3,31.0
+Historical Beer - Steinbier,81,1,81.0
+Lambic - Gueuze,64,8,8.0
+Historical Beer - Zoigl,37,3,12.0
+Root Beer,34,3,11.0
+Malt Beer,31,6,5.0
+Farmhouse Ale - Bière de Mars,18,2,9.0
+Lager - Euro Pale,11,9,1.0
+Sour - Farmhouse IPA,7,1,7.0
+Imperial Pale Ale,6,2,3.0
+Historical Beer - Kottbusser,3,1,3.0
+Lager - Euro Dark,2,1,2.0
+Stout - Belgian,0,0,
+Ukrainian Golden Ale,0,0,
+Blonde Lager,0,0,
+Golden Lager,0,0,
+American Blonde Ale,0,0,
+Harvest Ale,0,0,
+Abbey Ale,0,0,
+Belgian Trappist Ale,0,0,
+Belgian Ale (Decommissioned),0,0,
+Corn Beer / Chicha de Jora,0,0,
+Stout - American Imperial / Double,0,0,
+Sorghum / Millet Beer,0,0,
+Golden Ale - American,0,0,
+Golden Ale - English,0,0,
+Golden Ale - Ukrainian,0,0,
+Historical Beer - Broyhan,0,0,
+Historical Beer - Kuit / Kuyt / Koyt,0,0,
+Historical Beer - Mumme,0,0,
+IPA - Brown,0,0,
+Chile Beer,0,0,
