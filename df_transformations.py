@@ -75,8 +75,9 @@ def create_breweries_df():
 
 def create_venues_df():
     checkins_df = pd.read_csv('./data/checkins.csv')
+    checkins_df = checkins_df[checkins_df['venue_id'].notna()]
+    checkins_df = checkins_df.drop_duplicates(subset='venue_id')
 
-    checkins_df = checkins_df[checkins_df['venue_id'].notna()].drop_duplicates(subset='venue_id')
     venues = []
     retail_venues = []
 
@@ -109,7 +110,8 @@ def create_venues_df():
 def create_retail_venues_df():
     checkins_df = pd.read_csv('./data/checkins.csv')
 
-    checkins_df = checkins_df[checkins_df['retail_venue_id'].notna()].drop_duplicates(subset='retail_venue_id')
+    checkins_df = checkins_df[checkins_df['retail_venue_id'].notna()]
+    checkins_df = checkins_df.drop_duplicates(subset='retail_venue_id')
     retail_venues = []
 
     for _, row in checkins_df.iterrows():
